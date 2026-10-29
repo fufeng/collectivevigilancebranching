@@ -1,6 +1,6 @@
-# collectivevigilancebranching
+# Rich equilibrium behavior and evolutionary branching in collective vigilance under concave costs
 
-# Figure 1 code
+# code for replicating Figure 1 in the letter 
 
 Four self-contained Python scripts reproduce the individual panels of the finalized collective-vigilance figure.
 
